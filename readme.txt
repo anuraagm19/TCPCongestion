@@ -1,7 +1,6 @@
 Please read this document first for detailed explanation of the submission and also how to run and test it.
 
 This is the directory structure:
-Group_49
 	- readme.txt
 	- pltFiles/
         - UdpandTcpHighSpeed_delay_Separate.plt
